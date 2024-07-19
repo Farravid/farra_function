@@ -1,3 +1,5 @@
+//TODO: Add gtests and benchmarks to try to make it faster and smaller than std::function
+
 #include <functional>
 #include <iostream>
 
